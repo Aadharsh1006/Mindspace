@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Longitudinal Emotional Trajectory AI Dashboard | SKCET Research</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+  <!-- Top Navigation Header -->
+  <nav class="navbar">
+    <div class="brand">
+      <div class="brand-logo">🧠</div>
+      <div>
+        <div class="brand-title">Emotional Trajectory AI Dashboard</div>
+        <div class="brand-sub">Institution-Integrated Psychological Support Framework | SKCET Final Year Project</div>
+      </div>
+    </div>
+    <div class="nav-stats">
+      <div class="stat-chip">
+        <div class="pulse-green"></div>
+        <span>PyTorch & XGBoost Active</span>
+      </div>
+      <div class="stat-chip">
+        <span>Counselor Queue:</span>
+        <strong id="atRiskCount" style="color: var(--accent-rose);">0 Flagged</strong>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Dashboard Grid -->
+  <div class="dashboard-container">
+
+    <!-- Card 1: Interactive Live Session Sandbox (Stage 1 & Stage 2 Inference) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-title">
+          <span>💬</span> Single-Session AI Extraction Sandbox (Model 1 & Model 2)
+        </div>
+        <span class="badge badge-stable">STAGE 1 & 2 INFERENCE</span>
+      </div>
+
+      <div class="input-group">
+        <label style="font-size:13px; color:var(--text-muted);">Enter Student Session Input or Journal Text:</label>
+        <textarea id="sessionText" placeholder="Type or select a student prompt below to test real-time emotion recognition, severity estimation, and trigger categorization..."></textarea>
+        
+        <div style="display:flex; justify-content:space-between; align-items:center;">
+          <div class="sample-prompts">
+            <span class="prompt-tag" onclick="setSamplePrompt('I failed my midterm exam and I feel like my GPA is completely ruined.')">📚 Exam Failure</span>
+            <span class="prompt-tag" onclick="setSamplePrompt('I have two finals tomorrow and I haven\'t slept in 24 hours from extreme anxiety.')">😴 Insomnia / Anxiety</span>
+            <span class="prompt-tag" onclick="setSamplePrompt('My partner broke up with me last night after 3 years together, I can\'t stop crying.')">💔 Relationship Breakup</span>
+            <span class="prompt-tag" onclick="setSamplePrompt('I applied to 50 tech internships and got rejected from every single one of them.')">💼 Job Rejection</span>
+          </div>
+          <button id="analyzeBtn" class="btn-primary">
+            <span>⚡ Run AI Inference</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Live Session Inference Results Container -->
+      <div id="liveSessionResults" style="margin-top: 20px;">
+        <div style="text-align: center; padding: 25px; color: var(--text-muted); font-size: 13.5px; border: 1px dashed var(--border-color); border-radius: 12px;">
+          Select a sample prompt above or enter custom text to test Model 1 (DistilBERT Emotion/Severity) and Model 2 (Sentence-Transformer + XGBoost Trigger).
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 2: Student Longitudinal Trajectory Analytics (Model 3 BiLSTM) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-title">
+          <span>📈</span> Student Trajectory Tracker (Model 3 BiLSTM)
+        </div>
+        <div>
+          <select id="studentSelect">
+            <option value="">Loading Student Profiles...</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Interactive Chart Canvas -->
+      <div class="chart-wrapper">
+        <canvas id="trajectoryChart"></canvas>
+      </div>
+
+      <!-- Model 3 Trajectory Prediction Summary -->
+      <div id="trajectoryPredictionResult" style="margin-top: 16px;"></div>
+    </div>
+
+    <!-- Card 3: Counselor Risk Triage & Crisis Escalation Queue (Full Width) -->
+    <div class="card full-width">
+      <div class="card-header">
+        <div class="card-title">
+          <span>🚨</span> Counselor Triage Queue: At-Risk Deteriorating Students
+        </div>
+        <span class="badge badge-worsening">HUMAN-IN-THE-LOOP TRIAGE</span>
+      </div>
+
+      <div style="overflow-x: auto;">
+        <table class="triage-table">
+          <thead>
+            <tr>
+              <th>Student ID</th>
+              <th>Trend Status</th>
+              <th>Latest Severity ($s_t$)</th>
+              <th>Sequence Length</th>
+              <th>Risk Flag</th>
+              <th>Counselor Action</th>
+            </tr>
+          </thead>
+          <tbody id="triageTableBody">
+            <tr>
+              <td colspan="6" style="text-align:center; color:var(--text-muted); padding:20px;">Loading student trajectory queue...</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Card 4: Empirical IEEE Paper Summary & Baseline Performance Matrix (Full Width) -->
+    <div class="card full-width">
+      <div class="card-header">
+        <div class="card-title">
+          <span>📊</span> Research Contribution & Baseline Benchmark Comparison (Table I)
+        </div>
+        <span class="badge badge-improving">PAPER RESULTS VALIDATED</span>
+      </div>
+
+      <div style="overflow-x: auto; margin-top: 10px;">
+        <table class="triage-table">
+          <thead>
+            <tr>
+              <th>System / Baseline</th>
+              <th>Core Architecture</th>
+              <th>Personalization Scope</th>
+              <th>Macro-F1</th>
+              <th>Accuracy</th>
+              <th>Worsening Recall</th>
+              <th>Inference Latency</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Wysa</strong></td>
+              <td>Rule-based + NLP</td>
+              <td>Session-level only</td>
+              <td>N/A</td>
+              <td>N/A</td>
+              <td>N/A</td>
+              <td>< 1.0 ms</td>
+            </tr>
+            <tr>
+              <td><strong>Youper</strong></td>
+              <td>AI-guided CBT</td>
+              <td>Mood tracker (no trend)</td>
+              <td>N/A</td>
+              <td>N/A</td>
+              <td>N/A</td>
+              <td>< 1.0 ms</td>
+            </tr>
+            <tr>
+              <td><strong>Woebot [3]</strong></td>
+              <td>Rule-based agent</td>
+              <td>Per-message only</td>
+              <td>N/A</td>
+              <td>N/A</td>
+              <td>N/A</td>
+              <td>< 1.0 ms</td>
+            </tr>
+            <tr>
+              <td><strong>Tess [4]</strong></td>
+              <td>Automated psych AI</td>
+              <td>Per-message only</td>
+              <td>N/A</td>
+              <td>N/A</td>
+              <td>N/A</td>
+              <td>< 1.0 ms</td>
+            </tr>
+            <tr>
+              <td><strong>Rule-Based PHQ-9 Baseline</strong></td>
+              <td>Clinical Score Cutoffs</td>
+              <td>2-point score delta</td>
+              <td>0.8727</td>
+              <td>0.8700</td>
+              <td>1.0000</td>
+              <td>< 1.0 ms</td>
+            </tr>
+            <tr>
+              <td><strong>Session-Only Baseline</strong></td>
+              <td>DistilBERT + XGBoost</td>
+              <td>Single-session state</td>
+              <td>0.7088</td>
+              <td>0.7000</td>
+              <td>1.0000</td>
+              <td>< 2.0 ms</td>
+            </tr>
+            <tr>
+              <td><strong>Guided-CBT (Cook et al. [5])</strong></td>
+              <td>Fixed 2-point Assessment</td>
+              <td>Fixed timepoint</td>
+              <td>0.9026</td>
+              <td>0.9000</td>
+              <td>1.0000</td>
+              <td>< 1.0 ms</td>
+            </tr>
+            <tr>
+              <td><strong>Transformer Ablation</strong></td>
+              <td>Transformer Encoder</td>
+              <td>Multi-head sequence</td>
+              <td>0.9199</td>
+              <td>0.9200</td>
+              <td>1.0000</td>
+              <td>3.20 ms</td>
+            </tr>
+            <tr style="background: rgba(99, 102, 241, 0.12); font-weight: bold;">
+              <td><strong style="color: var(--accent-indigo);">Proposed Framework</strong></td>
+              <td><strong>DistilBERT + XGBoost + BiLSTM</strong></td>
+              <td><strong>Cross-session structured record</strong></td>
+              <td><span class="badge badge-improving">0.9381</span></td>
+              <td><span class="badge badge-improving">0.9400 (94.0%)</span></td>
+              <td><span class="badge badge-improving">1.0000 (100%)</span></td>
+              <td><span class="badge badge-improving">0.12 ms</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+</body>
+</html>

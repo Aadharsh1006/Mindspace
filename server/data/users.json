@@ -1,0 +1,11 @@
+[
+  {
+    "id": "USER_ADMIN",
+    "name": "System Administrator",
+    "email": "admin@mindspace.org",
+    "password": "admin123",
+    "role": "admin",
+    "age": 35,
+    "gender": "Other"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "STUDENT_0001": [
+    {
+      "timestamp": "2026-08-09T20:16:15.907Z",
+      "user_message": "I'm terrified I failed my midterm exam and can't sleep at all.",
+      "bot_response": "Thank you for sharing that with me. It takes courage to talk about feeling down regarding academic. Be kind to yourself today. Let's work through a quick self-compassion grounding exercise together.",
+      "emotion": "Sadness",
+      "severity": 0.5383,
+      "trigger": "Academic"
+    },
+    {
+      "timestamp": "2026-08-09T20:16:54.525Z",
+      "user_message": "Heyy I can't able to improve my result ",
+      "bot_response": "Thank you for sharing that with me. It takes courage to talk about feeling down regarding academic. Be kind to yourself today. Let's work through a quick self-compassion grounding exercise together.",
+      "emotion": "Sadness",
+      "severity": 0.5044,
+      "trigger": "Academic"
+    },
+    {
+      "timestamp": "2026-08-09T20:17:21.514Z",
+      "user_message": "I not gonna continue my course hereafter",
+      "bot_response": "Thank you for sharing that with me. It takes courage to talk about feeling down regarding academic. Be kind to yourself today. Let's work through a quick self-compassion grounding exercise together.",
+      "emotion": "Sadness",
+      "severity": 0.4924,
+      "trigger": "Academic"
+    }
+  ]
+}

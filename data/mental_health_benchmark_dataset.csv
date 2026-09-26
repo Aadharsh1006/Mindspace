@@ -1,0 +1,1401 @@
+text,raw_emotion,emotion,trigger,severity
+i'm feeling so lost because i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.67
+can anyone relate? i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.666
+"i'm feeling so lost because my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.71
+just wanted to say that my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.764
+i need to vent... i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.624
+"i don't know what to do anymore, i have a group presentation in class today and i feel like having a severe panic attack.",anxiety,Anxiety,Social Anxiety,1.0
+i need to vent... i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.527
+i'm feeling so lost because i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.55
+i need to vent... i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.082
+it's 2 am and i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.251
+"honestly, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.574
+i need to vent... i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.28
+just wanted to say that i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.733
+"i don't know what to do anymore, my professor accused me of cheating on my essay when i wrote it all myself.",anger,Anger,Academic,0.555
+"can anyone relate? i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.704
+"honestly, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.059
+lately i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.601
+"just wanted to say that everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.638
+it's 2 am and i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.167
+just wanted to say that i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.033
+just wanted to say that i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.693
+"i don't know what to do anymore, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.739
+"i need to vent... my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.602
+it's 2 am and my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.639
+"i don't know what to do anymore, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.649
+it's 2 am and i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.939
+can anyone relate? i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.665
+lately i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.579
+i need to vent... i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.087
+it's 2 am and i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.195
+lately i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.598
+lately i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.245
+lately i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.643
+lately my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.455
+"honestly, i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.679
+i'm feeling so lost because i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.012
+"i don't know what to do anymore, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.515
+"honestly, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.633
+it's 2 am and i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.173
+i need to vent... i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.101
+i need to vent... i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.632
+lately i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.736
+"honestly, my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.65
+can anyone relate? my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.776
+it's 2 am and i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.671
+lately i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.931
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.536
+just wanted to say that i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.469
+lately i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.032
+just wanted to say that i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.205
+"i don't know what to do anymore, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.607
+just wanted to say that i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.249
+can anyone relate? i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.63
+"honestly, my professor accused me of cheating on my essay when i wrote it all myself.",anger,Anger,Academic,0.483
+"i don't know what to do anymore, i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.619
+"honestly, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.027
+"i don't know what to do anymore, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.539
+"honestly, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.587
+lately i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.09
+just wanted to say that i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.142
+just wanted to say that i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.635
+just wanted to say that i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.723
+"lately my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.675
+just wanted to say that my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.748
+"honestly, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.639
+"honestly, i have a group presentation in class today and i feel like having a severe panic attack.",anxiety,Anxiety,Social Anxiety,0.973
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.53
+just wanted to say that i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.526
+i need to vent... i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.11
+lately i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.204
+lately i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.518
+i'm feeling so lost because i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.284
+"i don't know what to do anymore, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.705
+i'm feeling so lost because my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.562
+"i'm feeling so lost because i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.654
+lately i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.128
+it's 2 am and i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.61
+"i don't know what to do anymore, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.676
+"i don't know what to do anymore, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.033
+can anyone relate? i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.06
+just wanted to say that i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.614
+"i don't know what to do anymore, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.696
+"can anyone relate? my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.628
+it's 2 am and my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.691
+i need to vent... i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.691
+can anyone relate? i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+"i don't know what to do anymore, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.674
+just wanted to say that i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.443
+just wanted to say that i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.032
+"honestly, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.195
+"honestly, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.566
+just wanted to say that i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.292
+i need to vent... i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.752
+i'm feeling so lost because my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.505
+"i need to vent... i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.612
+just wanted to say that i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.075
+i'm feeling so lost because i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.533
+"i'm feeling so lost because everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.652
+lately i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.148
+lately i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.162
+it's 2 am and i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.67
+just wanted to say that i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.719
+"honestly, my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.615
+lately my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.713
+"honestly, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.604
+"honestly, i have a group presentation in class today and i feel like having a severe panic attack.",anxiety,Anxiety,Social Anxiety,0.952
+i need to vent... i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.59
+lately i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.421
+can anyone relate? i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.079
+"honestly, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.212
+just wanted to say that i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.525
+i need to vent... i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.292
+lately i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.664
+lately my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.545
+"it's 2 am and i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.627
+can anyone relate? i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.094
+"honestly, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.529
+"i don't know what to do anymore, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.522
+i need to vent... i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.153
+it's 2 am and i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.021
+"honestly, i failed my midterm exam and i feel like my gpa is completely ruined.",sadness,Sadness,Academic,0.593
+i'm feeling so lost because i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.763
+"lately my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.672
+can anyone relate? my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.686
+just wanted to say that i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.653
+i need to vent... i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.941
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.628
+i need to vent... i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.431
+i need to vent... i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.119
+can anyone relate? i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.215
+just wanted to say that i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.575
+can anyone relate? i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.294
+"i don't know what to do anymore, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.639
+lately my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.539
+"just wanted to say that i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.661
+just wanted to say that i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.023
+"i don't know what to do anymore, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.572
+"it's 2 am and everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.588
+can anyone relate? i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.152
+it's 2 am and i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.096
+"i don't know what to do anymore, i failed my midterm exam and i feel like my gpa is completely ruined.",sadness,Sadness,Academic,0.578
+just wanted to say that i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.758
+"i'm feeling so lost because my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.677
+"i don't know what to do anymore, my rent is due tomorrow and my student bank account has negative balance.",anxiety,Anxiety,Financial,0.748
+lately i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.621
+can anyone relate? i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.969
+"i don't know what to do anymore, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.629
+it's 2 am and i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.423
+"honestly, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.019
+just wanted to say that i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.207
+it's 2 am and i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.51
+can anyone relate? i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.26
+"honestly, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.651
+can anyone relate? my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.423
+"honestly, i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.631
+it's 2 am and i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.081
+"honestly, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.619
+"i'm feeling so lost because everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.622
+can anyone relate? i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.12
+"honestly, i'm reading my textbook for linear algebra and taking notes.",neutral,Neutral,Academic,0.066
+just wanted to say that i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.725
+"i don't know what to do anymore, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.623
+"just wanted to say that my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.649
+just wanted to say that my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.772
+"i don't know what to do anymore, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.703
+it's 2 am and i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.979
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.673
+just wanted to say that i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.458
+can anyone relate? i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.002
+i need to vent... i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.186
+"honestly, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.572
+"i don't know what to do anymore, i'm sitting alone in the cafeteria and feel like everyone is judging me.",social anxiety,Social Anxiety,Social Anxiety,0.243
+just wanted to say that i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.696
+it's 2 am and my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.434
+"just wanted to say that i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.726
+i'm feeling so lost because i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.0
+"honestly, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.477
+"i don't know what to do anymore, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.592
+"honestly, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.098
+just wanted to say that i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.044
+it's 2 am and i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.585
+i'm feeling so lost because i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.727
+"i don't know what to do anymore, my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.723
+it's 2 am and my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.723
+can anyone relate? i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.589
+i need to vent... i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.949
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.595
+just wanted to say that i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.477
+"i don't know what to do anymore, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.015
+i need to vent... i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.228
+i need to vent... i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.573
+i'm feeling so lost because i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.261
+just wanted to say that i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.653
+i'm feeling so lost because my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.476
+"i need to vent... i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.599
+i'm feeling so lost because i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.073
+just wanted to say that i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.56
+"honestly, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.639
+just wanted to say that i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.024
+it's 2 am and i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.088
+i'm feeling so lost because i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.704
+"honestly, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.743
+"i'm feeling so lost because my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.594
+lately my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.662
+just wanted to say that i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.613
+can anyone relate? i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.657
+it's 2 am and i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.421
+just wanted to say that i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.039
+i need to vent... i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.16
+"i don't know what to do anymore, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.478
+lately i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.358
+lately i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.734
+i'm feeling so lost because my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.511
+"lately i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.618
+i'm feeling so lost because i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.068
+i'm feeling so lost because i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.582
+"it's 2 am and everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.566
+just wanted to say that i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.146
+just wanted to say that i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.032
+"i don't know what to do anymore, i failed my midterm exam and i feel like my gpa is completely ruined.",sadness,Sadness,Academic,0.603
+lately i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.761
+"it's 2 am and my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.631
+can anyone relate? my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.691
+can anyone relate? i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.615
+"i don't know what to do anymore, i have a group presentation in class today and i feel like having a severe panic attack.",anxiety,Anxiety,Social Anxiety,0.96
+i'm feeling so lost because i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.57
+"honestly, i had a huge argument with my mom and she told me she's disappointed in me.",anger,Anger,Relationships/Family,0.42
+"i don't know what to do anymore, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.072
+lately i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.259
+"i don't know what to do anymore, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.559
+"honestly, i'm sitting alone in the cafeteria and feel like everyone is judging me.",social anxiety,Social Anxiety,Social Anxiety,0.308
+"honestly, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.652
+just wanted to say that my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.433
+"honestly, i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.708
+i'm feeling so lost because i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.039
+"i don't know what to do anymore, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.489
+"just wanted to say that everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.543
+i'm feeling so lost because i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.04
+can anyone relate? i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.062
+"i don't know what to do anymore, i failed my midterm exam and i feel like my gpa is completely ruined.",sadness,Sadness,Academic,0.701
+it's 2 am and i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.651
+"can anyone relate? my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.673
+just wanted to say that my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.773
+it's 2 am and i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.719
+"honestly, i have a group presentation in class today and i feel like having a severe panic attack.",anxiety,Anxiety,Social Anxiety,1.0
+"i don't know what to do anymore, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.53
+it's 2 am and i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.476
+"honestly, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.0
+"honestly, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.139
+i need to vent... i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.525
+i need to vent... i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.298
+i need to vent... i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.746
+i need to vent... my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.553
+"just wanted to say that i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.585
+lately i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.065
+it's 2 am and i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.499
+"i don't know what to do anymore, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.543
+just wanted to say that i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.057
+"i don't know what to do anymore, i'm reading my textbook for linear algebra and taking notes.",neutral,Neutral,Academic,0.124
+just wanted to say that i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.589
+i need to vent... i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.748
+"can anyone relate? my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.683
+i'm feeling so lost because my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.776
+can anyone relate? i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.669
+just wanted to say that i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.981
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.597
+i'm feeling so lost because i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.449
+can anyone relate? i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.0
+i need to vent... i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.199
+i'm feeling so lost because i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.483
+just wanted to say that i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.259
+i need to vent... i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.718
+i need to vent... my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.511
+"lately i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.694
+i need to vent... i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.061
+just wanted to say that i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.552
+"i don't know what to do anymore, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.561
+i'm feeling so lost because i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.161
+can anyone relate? i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.024
+it's 2 am and i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.675
+lately i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.665
+"can anyone relate? my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.619
+i'm feeling so lost because my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.761
+i'm feeling so lost because i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.611
+just wanted to say that i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.992
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.548
+"honestly, i had a huge argument with my mom and she told me she's disappointed in me.",anger,Anger,Relationships/Family,0.464
+"i don't know what to do anymore, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.032
+i'm feeling so lost because i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.139
+"honestly, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.593
+can anyone relate? i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.311
+"i don't know what to do anymore, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.752
+"honestly, my professor accused me of cheating on my essay when i wrote it all myself.",anger,Anger,Academic,0.503
+"just wanted to say that i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.667
+i'm feeling so lost because i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.0
+it's 2 am and i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.617
+"i'm feeling so lost because everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.568
+"honestly, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.144
+"honestly, i'm reading my textbook for linear algebra and taking notes.",neutral,Neutral,Academic,0.152
+"honestly, i failed my midterm exam and i feel like my gpa is completely ruined.",sadness,Sadness,Academic,0.63
+can anyone relate? i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.718
+"just wanted to say that my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.584
+just wanted to say that my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.674
+it's 2 am and i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.596
+"i don't know what to do anymore, i have a group presentation in class today and i feel like having a severe panic attack.",anxiety,Anxiety,Social Anxiety,0.954
+lately i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.615
+can anyone relate? i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.484
+i'm feeling so lost because i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.09
+it's 2 am and i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.279
+lately i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.608
+"honestly, i'm sitting alone in the cafeteria and feel like everyone is judging me.",social anxiety,Social Anxiety,Social Anxiety,0.277
+i need to vent... i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.734
+i'm feeling so lost because my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.488
+"i need to vent... i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.574
+i need to vent... i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.123
+i need to vent... i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.498
+"it's 2 am and everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.549
+"honestly, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.06
+"honestly, i'm reading my textbook for linear algebra and taking notes.",neutral,Neutral,Academic,0.053
+lately i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.617
+just wanted to say that i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.751
+"can anyone relate? my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.669
+i need to vent... my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.767
+can anyone relate? i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.696
+lately i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.925
+i need to vent... i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.54
+just wanted to say that i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.547
+can anyone relate? i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.107
+i need to vent... i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.183
+just wanted to say that i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.527
+lately i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.243
+lately i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.638
+i'm feeling so lost because my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.562
+"can anyone relate? i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.662
+just wanted to say that i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.0
+"i don't know what to do anymore, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.618
+"i don't know what to do anymore, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.64
+can anyone relate? i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.154
+i need to vent... i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.101
+i'm feeling so lost because i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.666
+"honestly, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.691
+"lately my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.672
+can anyone relate? my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.66
+"i don't know what to do anymore, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.615
+lately i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.993
+it's 2 am and i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.631
+"i don't know what to do anymore, i had a huge argument with my mom and she told me she's disappointed in me.",anger,Anger,Relationships/Family,0.567
+i'm feeling so lost because i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.055
+just wanted to say that i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.186
+i need to vent... i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.603
+"i don't know what to do anymore, i'm sitting alone in the cafeteria and feel like everyone is judging me.",social anxiety,Social Anxiety,Social Anxiety,0.356
+"honestly, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.689
+just wanted to say that my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.496
+"it's 2 am and i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.647
+lately i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.038
+"honestly, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.592
+"i need to vent... everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.641
+"i don't know what to do anymore, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.044
+can anyone relate? i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.12
+"i don't know what to do anymore, i failed my midterm exam and i feel like my gpa is completely ruined.",sadness,Sadness,Academic,0.58
+"honestly, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.679
+"i don't know what to do anymore, my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.597
+can anyone relate? my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.696
+it's 2 am and i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.595
+it's 2 am and i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.521
+just wanted to say that i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.429
+can anyone relate? i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.077
+just wanted to say that i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.135
+lately i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.563
+it's 2 am and i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.228
+"honestly, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.74
+i'm feeling so lost because my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.515
+"i need to vent... i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.697
+lately i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.0
+can anyone relate? i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.614
+"honestly, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.623
+i'm feeling so lost because i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.141
+i'm feeling so lost because i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.104
+can anyone relate? i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.617
+i'm feeling so lost because i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.631
+"just wanted to say that my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.622
+i'm feeling so lost because my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.686
+lately i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.593
+i'm feeling so lost because i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+it's 2 am and i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.643
+can anyone relate? i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.556
+i need to vent... i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.005
+"honestly, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.13
+i need to vent... i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.606
+just wanted to say that i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.331
+"honestly, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.714
+"i don't know what to do anymore, my professor accused me of cheating on my essay when i wrote it all myself.",anger,Anger,Academic,0.509
+"can anyone relate? i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.577
+"honestly, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.024
+"i don't know what to do anymore, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.538
+"it's 2 am and everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.617
+i'm feeling so lost because i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.053
+just wanted to say that i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.147
+"i don't know what to do anymore, i failed my midterm exam and i feel like my gpa is completely ruined.",sadness,Sadness,Academic,0.579
+i'm feeling so lost because i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.653
+"i'm feeling so lost because my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.636
+lately my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.62
+i'm feeling so lost because i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.663
+lately i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.933
+"i don't know what to do anymore, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.562
+it's 2 am and i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.53
+can anyone relate? i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.089
+i'm feeling so lost because i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.146
+"honestly, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.586
+just wanted to say that i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.268
+lately i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.626
+it's 2 am and my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.522
+"lately i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.635
+"i don't know what to do anymore, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.04
+it's 2 am and i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.549
+"lately everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.525
+just wanted to say that i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.165
+"honestly, i'm reading my textbook for linear algebra and taking notes.",neutral,Neutral,Academic,0.114
+i'm feeling so lost because i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.714
+i'm feeling so lost because i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.735
+"just wanted to say that my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.573
+"i don't know what to do anymore, my rent is due tomorrow and my student bank account has negative balance.",anxiety,Anxiety,Financial,0.703
+lately i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.648
+i'm feeling so lost because i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.933
+just wanted to say that i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.621
+it's 2 am and i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.5
+"honestly, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.112
+"i don't know what to do anymore, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.174
+just wanted to say that i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.551
+lately i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.336
+it's 2 am and i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.687
+i'm feeling so lost because my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.569
+"i need to vent... i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.586
+lately i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.076
+"i don't know what to do anymore, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.528
+"i don't know what to do anymore, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.662
+lately i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.097
+i'm feeling so lost because i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.141
+lately i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.698
+it's 2 am and i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.637
+"it's 2 am and my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.671
+i'm feeling so lost because my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.75
+lately i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.691
+just wanted to say that i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.981
+just wanted to say that i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.658
+it's 2 am and i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.446
+i'm feeling so lost because i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.041
+i'm feeling so lost because i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.133
+i need to vent... i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.545
+lately i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.246
+lately i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.702
+i need to vent... my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.431
+"i don't know what to do anymore, i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.612
+"i don't know what to do anymore, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.06
+i'm feeling so lost because i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.577
+"it's 2 am and everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.534
+i need to vent... i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.078
+i need to vent... i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.027
+i'm feeling so lost because i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.684
+can anyone relate? i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.646
+"i don't know what to do anymore, my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.712
+can anyone relate? my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.78
+"honestly, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.69
+it's 2 am and i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.643
+it's 2 am and i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.53
+lately i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.068
+"honestly, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.145
+"i don't know what to do anymore, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.477
+lately i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.354
+lately i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.697
+i need to vent... my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.553
+"i need to vent... i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.596
+i'm feeling so lost because i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.086
+lately i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.549
+"i'm feeling so lost because everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.564
+lately i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.089
+lately i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.045
+it's 2 am and i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.705
+"honestly, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.646
+"can anyone relate? my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.603
+can anyone relate? my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.678
+"honestly, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.616
+can anyone relate? i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.966
+i'm feeling so lost because i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.599
+it's 2 am and i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.569
+lately i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.095
+lately i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.134
+i need to vent... i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.548
+"i don't know what to do anymore, i'm sitting alone in the cafeteria and feel like everyone is judging me.",social anxiety,Social Anxiety,Social Anxiety,0.271
+can anyone relate? i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.705
+i need to vent... my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.444
+"i'm feeling so lost because i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.578
+can anyone relate? i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.058
+just wanted to say that i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.591
+"can anyone relate? everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.598
+can anyone relate? i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.175
+can anyone relate? i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.137
+just wanted to say that i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.571
+it's 2 am and i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.753
+"i'm feeling so lost because my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.647
+i need to vent... my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.646
+i need to vent... i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.664
+just wanted to say that i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+lately i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.637
+lately i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.445
+i'm feeling so lost because i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.098
+"i don't know what to do anymore, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.167
+it's 2 am and i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.524
+it's 2 am and i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.265
+lately i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.779
+"i don't know what to do anymore, my professor accused me of cheating on my essay when i wrote it all myself.",anger,Anger,Academic,0.462
+"can anyone relate? i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.626
+i'm feeling so lost because i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.049
+i'm feeling so lost because i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.61
+"i don't know what to do anymore, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.558
+lately i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.079
+i need to vent... i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.058
+i need to vent... i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.692
+i'm feeling so lost because i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.675
+"can anyone relate? my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.631
+i need to vent... my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.734
+"i don't know what to do anymore, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.615
+"honestly, i have a group presentation in class today and i feel like having a severe panic attack.",anxiety,Anxiety,Social Anxiety,0.985
+"i don't know what to do anymore, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.563
+it's 2 am and i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.462
+"honestly, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.087
+"honestly, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.242
+lately i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.564
+it's 2 am and i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.231
+lately i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.761
+"honestly, my professor accused me of cheating on my essay when i wrote it all myself.",anger,Anger,Academic,0.54
+"honestly, i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.66
+i'm feeling so lost because i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.022
+"honestly, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.543
+"just wanted to say that everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.673
+it's 2 am and i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.109
+can anyone relate? i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.125
+can anyone relate? i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.606
+lately i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.73
+"just wanted to say that my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.723
+lately my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.774
+just wanted to say that i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.701
+i'm feeling so lost because i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+just wanted to say that i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.668
+"i don't know what to do anymore, i had a huge argument with my mom and she told me she's disappointed in me.",anger,Anger,Relationships/Family,0.531
+can anyone relate? i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.02
+can anyone relate? i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.177
+lately i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.506
+i'm feeling so lost because i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.264
+i'm feeling so lost because i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.752
+it's 2 am and my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.446
+"lately i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.648
+can anyone relate? i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.0
+"honestly, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.496
+"i don't know what to do anymore, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.522
+i'm feeling so lost because i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.152
+can anyone relate? i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.028
+can anyone relate? i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.603
+"honestly, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.636
+"honestly, my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.603
+it's 2 am and my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.678
+i need to vent... i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.626
+i'm feeling so lost because i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.962
+i need to vent... i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.634
+lately i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.498
+it's 2 am and i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.0
+it's 2 am and i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.231
+i need to vent... i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.536
+can anyone relate? i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.311
+"i don't know what to do anymore, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.629
+i'm feeling so lost because my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.476
+"i need to vent... i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.685
+just wanted to say that i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.011
+"honestly, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.591
+"i don't know what to do anymore, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.534
+just wanted to say that i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.148
+i need to vent... i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.079
+"honestly, i failed my midterm exam and i feel like my gpa is completely ruined.",sadness,Sadness,Academic,0.659
+"i don't know what to do anymore, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.753
+"just wanted to say that my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.688
+just wanted to say that my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.703
+"i don't know what to do anymore, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.633
+"honestly, i have a group presentation in class today and i feel like having a severe panic attack.",anxiety,Anxiety,Social Anxiety,1.0
+it's 2 am and i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.553
+just wanted to say that i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.442
+i'm feeling so lost because i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.127
+i need to vent... i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.263
+just wanted to say that i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.562
+"i don't know what to do anymore, i'm sitting alone in the cafeteria and feel like everyone is judging me.",social anxiety,Social Anxiety,Social Anxiety,0.349
+it's 2 am and i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.732
+"i don't know what to do anymore, my professor accused me of cheating on my essay when i wrote it all myself.",anger,Anger,Academic,0.577
+"i need to vent... i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.648
+just wanted to say that i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.036
+"honestly, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.576
+"i need to vent... everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.562
+i need to vent... i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.142
+i need to vent... i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.167
+lately i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.623
+"honestly, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.624
+"i need to vent... my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.726
+i need to vent... my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.659
+just wanted to say that i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.713
+just wanted to say that i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+i'm feeling so lost because i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.558
+"honestly, i had a huge argument with my mom and she told me she's disappointed in me.",anger,Anger,Relationships/Family,0.503
+"i don't know what to do anymore, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.038
+"honestly, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.242
+just wanted to say that i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.544
+i'm feeling so lost because i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.227
+lately i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.65
+i'm feeling so lost because my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.509
+"just wanted to say that i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.725
+"honestly, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.109
+"honestly, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.613
+"i need to vent... everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.644
+"honestly, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.117
+i'm feeling so lost because i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.025
+just wanted to say that i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.62
+i'm feeling so lost because i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.626
+"just wanted to say that my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.703
+i need to vent... my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.684
+i need to vent... i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.606
+lately i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.98
+i'm feeling so lost because i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.608
+it's 2 am and i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.439
+just wanted to say that i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.069
+i need to vent... i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.17
+i'm feeling so lost because i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.602
+"i don't know what to do anymore, i'm sitting alone in the cafeteria and feel like everyone is judging me.",social anxiety,Social Anxiety,Social Anxiety,0.343
+just wanted to say that i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.725
+"honestly, my professor accused me of cheating on my essay when i wrote it all myself.",anger,Anger,Academic,0.532
+"can anyone relate? i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.685
+"honestly, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.075
+it's 2 am and i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.578
+"can anyone relate? everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.592
+it's 2 am and i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.138
+lately i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.142
+lately i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.659
+"honestly, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.684
+"i'm feeling so lost because my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.626
+i'm feeling so lost because my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.698
+lately i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.595
+i need to vent... i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.929
+"i don't know what to do anymore, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.645
+lately i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.515
+i need to vent... i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.088
+"i don't know what to do anymore, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.184
+"honestly, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.477
+lately i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.306
+"honestly, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.65
+can anyone relate? my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.429
+"just wanted to say that i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.681
+"honestly, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.02
+"i don't know what to do anymore, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.617
+"it's 2 am and everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.653
+i'm feeling so lost because i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.045
+i need to vent... i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.029
+it's 2 am and i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.591
+it's 2 am and i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.747
+"can anyone relate? my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.602
+i need to vent... my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.675
+just wanted to say that i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.724
+just wanted to say that i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.933
+just wanted to say that i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.588
+can anyone relate? i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.542
+"honestly, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.068
+just wanted to say that i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.27
+it's 2 am and i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.482
+lately i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.309
+it's 2 am and i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.673
+it's 2 am and my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.569
+"i'm feeling so lost because i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.613
+just wanted to say that i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.0
+just wanted to say that i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.52
+"i don't know what to do anymore, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.539
+"honestly, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.025
+i need to vent... i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.155
+i'm feeling so lost because i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.696
+"i don't know what to do anymore, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.737
+"i don't know what to do anymore, my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.707
+just wanted to say that my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.737
+"honestly, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.717
+it's 2 am and i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+"i don't know what to do anymore, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.602
+i'm feeling so lost because i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.543
+"honestly, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.128
+i'm feeling so lost because i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.173
+"honestly, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.557
+can anyone relate? i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.233
+just wanted to say that i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.718
+can anyone relate? my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.554
+"can anyone relate? i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.663
+just wanted to say that i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.024
+it's 2 am and i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.58
+"just wanted to say that everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.616
+"i don't know what to do anymore, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.051
+i need to vent... i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.173
+can anyone relate? i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.707
+i'm feeling so lost because i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.756
+"it's 2 am and my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.687
+i need to vent... my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.672
+"i don't know what to do anymore, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.672
+just wanted to say that i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.982
+i'm feeling so lost because i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.656
+just wanted to say that i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.579
+"honestly, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.0
+can anyone relate? i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.206
+i'm feeling so lost because i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.599
+just wanted to say that i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.352
+"honestly, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.687
+lately my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.458
+"just wanted to say that i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.701
+i need to vent... i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.093
+just wanted to say that i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.539
+"just wanted to say that everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.636
+lately i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.157
+i'm feeling so lost because i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.171
+it's 2 am and i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.645
+can anyone relate? i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.689
+"it's 2 am and my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.665
+can anyone relate? my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.762
+lately i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.7
+"i don't know what to do anymore, i have a group presentation in class today and i feel like having a severe panic attack.",anxiety,Anxiety,Social Anxiety,1.0
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.598
+i'm feeling so lost because i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.436
+it's 2 am and i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.088
+lately i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.153
+it's 2 am and i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.595
+it's 2 am and i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.33
+it's 2 am and i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.736
+just wanted to say that my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.43
+"i'm feeling so lost because i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.68
+"honestly, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.08
+i need to vent... i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.582
+"honestly, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.618
+can anyone relate? i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.168
+lately i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.121
+just wanted to say that i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.684
+it's 2 am and i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.659
+"it's 2 am and my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.631
+i'm feeling so lost because my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.656
+i need to vent... i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.689
+i need to vent... i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.953
+it's 2 am and i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.618
+"i don't know what to do anymore, i had a huge argument with my mom and she told me she's disappointed in me.",anger,Anger,Relationships/Family,0.423
+lately i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.06
+lately i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.196
+lately i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.622
+it's 2 am and i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.293
+i need to vent... i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.742
+"i don't know what to do anymore, my professor accused me of cheating on my essay when i wrote it all myself.",anger,Anger,Academic,0.546
+"i'm feeling so lost because i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.66
+"i don't know what to do anymore, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.0
+it's 2 am and i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.508
+"i need to vent... everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.603
+i need to vent... i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.065
+i'm feeling so lost because i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.041
+lately i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.711
+lately i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.714
+"honestly, my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.575
+i'm feeling so lost because my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.756
+just wanted to say that i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.725
+i need to vent... i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.989
+can anyone relate? i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.618
+can anyone relate? i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.466
+lately i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.061
+it's 2 am and i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.193
+i'm feeling so lost because i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.597
+can anyone relate? i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.228
+just wanted to say that i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.665
+i need to vent... my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.487
+"just wanted to say that i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.696
+can anyone relate? i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.036
+i'm feeling so lost because i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.573
+"just wanted to say that everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.637
+it's 2 am and i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.125
+"i don't know what to do anymore, i'm reading my textbook for linear algebra and taking notes.",neutral,Neutral,Academic,0.055
+"honestly, i failed my midterm exam and i feel like my gpa is completely ruined.",sadness,Sadness,Academic,0.625
+i'm feeling so lost because i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.756
+"just wanted to say that my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.674
+can anyone relate? my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.646
+"i don't know what to do anymore, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.603
+lately i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+"i don't know what to do anymore, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.616
+lately i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.54
+it's 2 am and i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.0
+"honestly, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.221
+it's 2 am and i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.544
+i'm feeling so lost because i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.366
+lately i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.657
+i need to vent... my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.504
+"can anyone relate? i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.655
+just wanted to say that i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.062
+"honestly, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.615
+"it's 2 am and everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.637
+i'm feeling so lost because i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.032
+just wanted to say that i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.066
+lately i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.681
+lately i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.709
+"i need to vent... my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.57
+i need to vent... my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.711
+i'm feeling so lost because i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.67
+can anyone relate? i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.622
+i'm feeling so lost because i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.536
+i need to vent... i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.061
+"honestly, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.242
+"i don't know what to do anymore, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.548
+"honestly, i'm sitting alone in the cafeteria and feel like everyone is judging me.",social anxiety,Social Anxiety,Social Anxiety,0.327
+"honestly, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.632
+"i don't know what to do anymore, my professor accused me of cheating on my essay when i wrote it all myself.",anger,Anger,Academic,0.531
+"honestly, i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.621
+it's 2 am and i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.09
+i need to vent... i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.543
+"just wanted to say that everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.544
+it's 2 am and i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.032
+i'm feeling so lost because i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.093
+can anyone relate? i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.638
+"honestly, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.702
+"i don't know what to do anymore, my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.661
+"honestly, my rent is due tomorrow and my student bank account has negative balance.",anxiety,Anxiety,Financial,0.772
+i need to vent... i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.681
+it's 2 am and i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.955
+"i don't know what to do anymore, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.675
+lately i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.432
+"honestly, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.086
+i'm feeling so lost because i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.201
+can anyone relate? i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.543
+just wanted to say that i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.241
+can anyone relate? i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.716
+i'm feeling so lost because my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.505
+"can anyone relate? i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.601
+"i don't know what to do anymore, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.064
+can anyone relate? i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.547
+"honestly, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.673
+"honestly, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.026
+i'm feeling so lost because i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.124
+i'm feeling so lost because i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.654
+"honestly, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.684
+"can anyone relate? my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.615
+i need to vent... my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.666
+i need to vent... i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.649
+lately i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+i need to vent... i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.598
+can anyone relate? i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.471
+"i don't know what to do anymore, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.037
+"i don't know what to do anymore, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.224
+just wanted to say that i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.618
+"i don't know what to do anymore, i'm sitting alone in the cafeteria and feel like everyone is judging me.",social anxiety,Social Anxiety,Social Anxiety,0.358
+it's 2 am and i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.707
+"honestly, my professor accused me of cheating on my essay when i wrote it all myself.",anger,Anger,Academic,0.475
+"i need to vent... i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.627
+i'm feeling so lost because i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.0
+"honestly, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.494
+"it's 2 am and everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.644
+"honestly, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.063
+"i don't know what to do anymore, i'm reading my textbook for linear algebra and taking notes.",neutral,Neutral,Academic,0.088
+it's 2 am and i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.623
+lately i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.74
+"i need to vent... my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.673
+"honestly, my rent is due tomorrow and my student bank account has negative balance.",anxiety,Anxiety,Financial,0.718
+just wanted to say that i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.645
+lately i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.591
+lately i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.564
+just wanted to say that i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.037
+i'm feeling so lost because i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.152
+"i don't know what to do anymore, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.566
+lately i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.322
+"i don't know what to do anymore, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.736
+"honestly, my professor accused me of cheating on my essay when i wrote it all myself.",anger,Anger,Academic,0.556
+"just wanted to say that i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.66
+can anyone relate? i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.047
+"i don't know what to do anymore, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.599
+"i need to vent... everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.567
+just wanted to say that i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.096
+i need to vent... i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.048
+can anyone relate? i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.668
+i need to vent... i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.731
+"lately my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.655
+just wanted to say that my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.63
+"honestly, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.707
+"honestly, i have a group presentation in class today and i feel like having a severe panic attack.",anxiety,Anxiety,Social Anxiety,1.0
+can anyone relate? i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.531
+lately i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.517
+"i don't know what to do anymore, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.057
+it's 2 am and i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.193
+can anyone relate? i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.539
+"i don't know what to do anymore, i'm sitting alone in the cafeteria and feel like everyone is judging me.",social anxiety,Social Anxiety,Social Anxiety,0.238
+just wanted to say that i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.631
+lately my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.519
+"can anyone relate? i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.637
+"i don't know what to do anymore, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.015
+just wanted to say that i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.548
+"it's 2 am and everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.63
+i'm feeling so lost because i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.066
+it's 2 am and i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.041
+lately i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.586
+"i don't know what to do anymore, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.627
+"i need to vent... my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.582
+lately my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.629
+i need to vent... i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.65
+"honestly, i have a group presentation in class today and i feel like having a severe panic attack.",anxiety,Anxiety,Social Anxiety,0.924
+just wanted to say that i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.591
+i'm feeling so lost because i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.546
+lately i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.017
+it's 2 am and i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.239
+just wanted to say that i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.575
+can anyone relate? i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.351
+can anyone relate? i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.627
+i need to vent... my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.563
+"just wanted to say that i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.656
+i'm feeling so lost because i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.0
+"honestly, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.487
+"i need to vent... everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.626
+"honestly, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.064
+i need to vent... i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.038
+i need to vent... i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.661
+lately i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.763
+"i need to vent... my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.726
+"i don't know what to do anymore, my rent is due tomorrow and my student bank account has negative balance.",anxiety,Anxiety,Financial,0.725
+it's 2 am and i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.723
+just wanted to say that i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.948
+i'm feeling so lost because i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.563
+"honestly, i had a huge argument with my mom and she told me she's disappointed in me.",anger,Anger,Relationships/Family,0.445
+lately i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.111
+"honestly, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.201
+"honestly, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.602
+it's 2 am and i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.227
+i'm feeling so lost because i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.644
+can anyone relate? my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.433
+"it's 2 am and i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.671
+it's 2 am and i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.095
+i need to vent... i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.555
+"honestly, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.563
+i'm feeling so lost because i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.089
+can anyone relate? i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.051
+just wanted to say that i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.617
+i need to vent... i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.765
+"can anyone relate? my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.695
+it's 2 am and my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.715
+i'm feeling so lost because i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.585
+i'm feeling so lost because i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+just wanted to say that i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.661
+"i don't know what to do anymore, i had a huge argument with my mom and she told me she's disappointed in me.",anger,Anger,Relationships/Family,0.576
+i'm feeling so lost because i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.073
+"i don't know what to do anymore, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.124
+i need to vent... i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.516
+lately i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.337
+"honestly, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.64
+just wanted to say that my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.47
+"it's 2 am and i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.624
+lately i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.116
+it's 2 am and i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.471
+"can anyone relate? everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.632
+just wanted to say that i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.115
+"i don't know what to do anymore, i'm reading my textbook for linear algebra and taking notes.",neutral,Neutral,Academic,0.098
+just wanted to say that i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.657
+i need to vent... i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.721
+"i need to vent... my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.67
+i need to vent... my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.776
+just wanted to say that i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.621
+"i don't know what to do anymore, i have a group presentation in class today and i feel like having a severe panic attack.",anxiety,Anxiety,Social Anxiety,1.0
+can anyone relate? i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.642
+i need to vent... i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.485
+i need to vent... i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.125
+i need to vent... i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.186
+lately i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.551
+i'm feeling so lost because i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.318
+i'm feeling so lost because i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.753
+i need to vent... my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.487
+"i need to vent... i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.598
+i'm feeling so lost because i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.016
+i'm feeling so lost because i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.592
+"can anyone relate? everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.679
+"i don't know what to do anymore, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.133
+"i don't know what to do anymore, i'm reading my textbook for linear algebra and taking notes.",neutral,Neutral,Academic,0.161
+just wanted to say that i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.622
+it's 2 am and i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.742
+"i'm feeling so lost because my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.662
+"i don't know what to do anymore, my rent is due tomorrow and my student bank account has negative balance.",anxiety,Anxiety,Financial,0.742
+can anyone relate? i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.725
+"honestly, i have a group presentation in class today and i feel like having a severe panic attack.",anxiety,Anxiety,Social Anxiety,1.0
+i need to vent... i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.609
+lately i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.574
+"i don't know what to do anymore, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.069
+just wanted to say that i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.213
+"i don't know what to do anymore, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.569
+can anyone relate? i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.361
+"honestly, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.735
+i'm feeling so lost because my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.576
+"can anyone relate? i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.586
+can anyone relate? i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.0
+"i don't know what to do anymore, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.509
+"lately everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.574
+just wanted to say that i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.11
+i need to vent... i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.065
+"honestly, i failed my midterm exam and i feel like my gpa is completely ruined.",sadness,Sadness,Academic,0.728
+"honestly, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.755
+"just wanted to say that my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.693
+i'm feeling so lost because my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.76
+"honestly, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.725
+it's 2 am and i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+can anyone relate? i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.57
+just wanted to say that i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.579
+it's 2 am and i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.047
+"i don't know what to do anymore, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.256
+just wanted to say that i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.569
+i need to vent... i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.342
+i need to vent... i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.713
+i'm feeling so lost because my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.575
+"can anyone relate? i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.697
+i need to vent... i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.001
+lately i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.61
+"i'm feeling so lost because everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.604
+can anyone relate? i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.132
+lately i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.143
+lately i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.698
+i'm feeling so lost because i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.704
+"it's 2 am and my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.682
+"honestly, my rent is due tomorrow and my student bank account has negative balance.",anxiety,Anxiety,Financial,0.723
+"i don't know what to do anymore, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.688
+"honestly, i have a group presentation in class today and i feel like having a severe panic attack.",anxiety,Anxiety,Social Anxiety,1.0
+i need to vent... i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.624
+lately i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.536
+"i don't know what to do anymore, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.057
+it's 2 am and i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.227
+i'm feeling so lost because i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.574
+i'm feeling so lost because i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.347
+i'm feeling so lost because i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.775
+it's 2 am and my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.564
+"lately i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.71
+i'm feeling so lost because i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.107
+"honestly, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.522
+"i'm feeling so lost because everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.674
+"honestly, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.078
+"i don't know what to do anymore, i'm reading my textbook for linear algebra and taking notes.",neutral,Neutral,Academic,0.087
+can anyone relate? i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.576
+"honestly, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.749
+"honestly, my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.614
+it's 2 am and my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.775
+i need to vent... i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.682
+lately i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.949
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.623
+lately i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.533
+"i don't know what to do anymore, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.066
+"i don't know what to do anymore, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.272
+can anyone relate? i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.55
+it's 2 am and i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.261
+can anyone relate? i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.749
+i'm feeling so lost because my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.523
+"can anyone relate? i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.727
+it's 2 am and i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.012
+i need to vent... i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.48
+"can anyone relate? everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.577
+can anyone relate? i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.036
+i'm feeling so lost because i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.11
+"honestly, i failed my midterm exam and i feel like my gpa is completely ruined.",sadness,Sadness,Academic,0.575
+can anyone relate? i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.742
+"it's 2 am and my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.602
+"i don't know what to do anymore, my rent is due tomorrow and my student bank account has negative balance.",anxiety,Anxiety,Financial,0.641
+just wanted to say that i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.63
+"honestly, i have a group presentation in class today and i feel like having a severe panic attack.",anxiety,Anxiety,Social Anxiety,0.936
+i need to vent... i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.569
+"i don't know what to do anymore, i had a huge argument with my mom and she told me she's disappointed in me.",anger,Anger,Relationships/Family,0.439
+"i don't know what to do anymore, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.02
+i need to vent... i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.2
+i'm feeling so lost because i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.498
+lately i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.315
+i'm feeling so lost because i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.746
+just wanted to say that my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.434
+"honestly, i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.68
+just wanted to say that i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.055
+just wanted to say that i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.51
+"just wanted to say that everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.607
+"i don't know what to do anymore, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.022
+i'm feeling so lost because i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.091
+just wanted to say that i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.625
+lately i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.738
+"honestly, my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.727
+lately my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.662
+can anyone relate? i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.604
+just wanted to say that i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.992
+i'm feeling so lost because i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.651
+"honestly, i had a huge argument with my mom and she told me she's disappointed in me.",anger,Anger,Relationships/Family,0.542
+just wanted to say that i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.1
+can anyone relate? i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.277
+i need to vent... i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.626
+i need to vent... i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.221
+it's 2 am and i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.686
+just wanted to say that my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.566
+"it's 2 am and i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.585
+can anyone relate? i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.124
+"i don't know what to do anymore, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.626
+"can anyone relate? everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.565
+i need to vent... i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.054
+"honestly, i'm reading my textbook for linear algebra and taking notes.",neutral,Neutral,Academic,0.064
+it's 2 am and i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.593
+"honestly, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.751
+"i'm feeling so lost because my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.717
+"i don't know what to do anymore, my rent is due tomorrow and my student bank account has negative balance.",anxiety,Anxiety,Financial,0.653
+can anyone relate? i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.681
+lately i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.521
+"i don't know what to do anymore, i had a huge argument with my mom and she told me she's disappointed in me.",anger,Anger,Relationships/Family,0.461
+i'm feeling so lost because i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.055
+i'm feeling so lost because i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.129
+it's 2 am and i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.626
+i'm feeling so lost because i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.229
+"i don't know what to do anymore, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.73
+"i don't know what to do anymore, my professor accused me of cheating on my essay when i wrote it all myself.",anger,Anger,Academic,0.49
+"honestly, i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.716
+can anyone relate? i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.077
+it's 2 am and i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.597
+"lately everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.579
+can anyone relate? i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.051
+i need to vent... i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.073
+"i don't know what to do anymore, i failed my midterm exam and i feel like my gpa is completely ruined.",sadness,Sadness,Academic,0.711
+lately i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.645
+"can anyone relate? my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.597
+lately my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.638
+i'm feeling so lost because i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.685
+i need to vent... i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+just wanted to say that i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.628
+i'm feeling so lost because i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.494
+"honestly, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.093
+"i don't know what to do anymore, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.129
+can anyone relate? i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.535
+i need to vent... i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.321
+"honestly, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.738
+it's 2 am and my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.479
+"it's 2 am and i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.625
+lately i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.129
+"i don't know what to do anymore, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.562
+"i don't know what to do anymore, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.579
+lately i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.111
+i'm feeling so lost because i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.15
+i'm feeling so lost because i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.68
+just wanted to say that i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.744
+"can anyone relate? my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.716
+i need to vent... my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.634
+can anyone relate? i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.712
+i need to vent... i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+just wanted to say that i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.569
+lately i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.565
+"i don't know what to do anymore, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.0
+"honestly, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.141
+"honestly, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.492
+"i don't know what to do anymore, i'm sitting alone in the cafeteria and feel like everyone is judging me.",social anxiety,Social Anxiety,Social Anxiety,0.228
+i need to vent... i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.71
+i need to vent... my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.479
+"it's 2 am and i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.722
+"i don't know what to do anymore, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.12
+just wanted to say that i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.621
+"lately everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.56
+"i don't know what to do anymore, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.168
+"i don't know what to do anymore, i'm reading my textbook for linear algebra and taking notes.",neutral,Neutral,Academic,0.136
+"i don't know what to do anymore, i failed my midterm exam and i feel like my gpa is completely ruined.",sadness,Sadness,Academic,0.711
+just wanted to say that i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.727
+"just wanted to say that my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.577
+"honestly, my rent is due tomorrow and my student bank account has negative balance.",anxiety,Anxiety,Financial,0.688
+just wanted to say that i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.677
+just wanted to say that i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.921
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.645
+"honestly, i had a huge argument with my mom and she told me she's disappointed in me.",anger,Anger,Relationships/Family,0.521
+it's 2 am and i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.001
+"i don't know what to do anymore, i studied really hard with my group and got an a on our team submission!",joy/hope,Joy/Hope,Academic,0.213
+"honestly, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.61
+i'm feeling so lost because i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.33
+"i don't know what to do anymore, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.756
+"i don't know what to do anymore, my professor accused me of cheating on my essay when i wrote it all myself.",anger,Anger,Academic,0.533
+"i need to vent... i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.613
+"i don't know what to do anymore, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.0
+i need to vent... i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.617
+"can anyone relate? everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.663
+"i don't know what to do anymore, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.065
+just wanted to say that i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.137
+it's 2 am and i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.609
+i need to vent... i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.655
+"just wanted to say that my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.706
+i'm feeling so lost because my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.673
+i need to vent... i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.709
+it's 2 am and i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+it's 2 am and i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.573
+just wanted to say that i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.456
+just wanted to say that i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.081
+just wanted to say that i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.212
+lately i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.488
+"i don't know what to do anymore, i'm sitting alone in the cafeteria and feel like everyone is judging me.",social anxiety,Social Anxiety,Social Anxiety,0.368
+can anyone relate? i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.681
+i need to vent... my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.509
+"i don't know what to do anymore, i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.713
+"i don't know what to do anymore, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.072
+it's 2 am and i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.604
+"just wanted to say that everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.539
+just wanted to say that i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.081
+can anyone relate? i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.083
+i need to vent... i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.704
+i need to vent... i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.706
+"can anyone relate? my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.719
+"honestly, my rent is due tomorrow and my student bank account has negative balance.",anxiety,Anxiety,Financial,0.637
+i'm feeling so lost because i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.594
+it's 2 am and i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.92
+can anyone relate? i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.643
+it's 2 am and i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.434
+it's 2 am and i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.11
+just wanted to say that i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.186
+lately i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.574
+lately i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.351
+"i don't know what to do anymore, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.657
+"i don't know what to do anymore, my professor accused me of cheating on my essay when i wrote it all myself.",anger,Anger,Academic,0.558
+"can anyone relate? i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.653
+"i don't know what to do anymore, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.073
+"honestly, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.562
+"i'm feeling so lost because everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.668
+can anyone relate? i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.068
+it's 2 am and i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.112
+it's 2 am and i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.724
+"i don't know what to do anymore, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.739
+"honestly, my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.572
+lately my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.778
+can anyone relate? i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.589
+just wanted to say that i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+it's 2 am and i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.605
+can anyone relate? i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.48
+"i don't know what to do anymore, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.028
+lately i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.275
+"honestly, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.48
+just wanted to say that i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.276
+"honestly, i can't pay my tuition bill for next semester and i might have to drop out.",anxiety,Anxiety,Financial,0.697
+lately my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.48
+"it's 2 am and i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.726
+i'm feeling so lost because i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.011
+it's 2 am and i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.561
+"can anyone relate? everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.541
+i'm feeling so lost because i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.026
+"i don't know what to do anymore, i'm reading my textbook for linear algebra and taking notes.",neutral,Neutral,Academic,0.129
+it's 2 am and i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.717
+can anyone relate? i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.771
+"i'm feeling so lost because my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.597
+i need to vent... my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.76
+i need to vent... i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.66
+i need to vent... i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.939
+lately i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.555
+"i don't know what to do anymore, i had a huge argument with my mom and she told me she's disappointed in me.",anger,Anger,Relationships/Family,0.453
+i'm feeling so lost because i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.083
+i need to vent... i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.179
+it's 2 am and i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.584
+lately i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.353
+i'm feeling so lost because i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.757
+i need to vent... my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.55
+"i'm feeling so lost because i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.583
+lately i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.121
+i'm feeling so lost because i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.611
+"can anyone relate? everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.66
+can anyone relate? i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.145
+i need to vent... i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.127
+can anyone relate? i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.692
+"i don't know what to do anymore, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.721
+"just wanted to say that my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.609
+i need to vent... my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.766
+"honestly, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.642
+just wanted to say that i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+can anyone relate? i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.544
+i need to vent... i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.464
+it's 2 am and i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.063
+just wanted to say that i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.266
+"i don't know what to do anymore, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.574
+i need to vent... i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.243
+can anyone relate? i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.719
+"honestly, my professor accused me of cheating on my essay when i wrote it all myself.",anger,Anger,Academic,0.509
+"i'm feeling so lost because i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.68
+"i don't know what to do anymore, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.021
+i'm feeling so lost because i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.53
+"i'm feeling so lost because everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.584
+it's 2 am and i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.099
+i need to vent... i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.153
+i'm feeling so lost because i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.609
+lately i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.638
+"i need to vent... my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.604
+it's 2 am and my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.717
+"honestly, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.603
+lately i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.594
+lately i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.561
+it's 2 am and i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.0
+i need to vent... i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.17
+i need to vent... i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.579
+it's 2 am and i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.261
+just wanted to say that i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.779
+can anyone relate? my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.429
+"it's 2 am and i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.668
+lately i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.027
+"i don't know what to do anymore, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.619
+"i'm feeling so lost because everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.532
+can anyone relate? i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.148
+"i don't know what to do anymore, i'm reading my textbook for linear algebra and taking notes.",neutral,Neutral,Academic,0.049
+"i don't know what to do anymore, i failed my midterm exam and i feel like my gpa is completely ruined.",sadness,Sadness,Academic,0.66
+it's 2 am and i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.73
+"i don't know what to do anymore, my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.571
+it's 2 am and my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.683
+lately i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.62
+lately i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+just wanted to say that i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.554
+i need to vent... i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.561
+i need to vent... i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.129
+lately i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.148
+"honestly, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.498
+"honestly, i'm sitting alone in the cafeteria and feel like everyone is judging me.",social anxiety,Social Anxiety,Social Anxiety,0.22
+i'm feeling so lost because i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.687
+i'm feeling so lost because my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.522
+"honestly, i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.636
+i need to vent... i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.0
+"i don't know what to do anymore, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.589
+"can anyone relate? everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.62
+it's 2 am and i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.022
+just wanted to say that i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.15
+lately i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.59
+i'm feeling so lost because i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.638
+"i don't know what to do anymore, my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.649
+just wanted to say that my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.641
+"i don't know what to do anymore, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.59
+i'm feeling so lost because i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.627
+"i don't know what to do anymore, i had a huge argument with my mom and she told me she's disappointed in me.",anger,Anger,Relationships/Family,0.523
+i'm feeling so lost because i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.035
+i'm feeling so lost because i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.266
+lately i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.52
+can anyone relate? i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.27
+i'm feeling so lost because i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.735
+i'm feeling so lost because my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.509
+"can anyone relate? i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.579
+can anyone relate? i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.116
+i'm feeling so lost because i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.613
+"it's 2 am and everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.569
+i need to vent... i had a nice quiet walk around campus today and listened to music.,neutral,Neutral,General Stress,0.023
+can anyone relate? i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.068
+can anyone relate? i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.659
+just wanted to say that i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.,anxiety,Anxiety,Sleep/Health,0.698
+"it's 2 am and my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.692
+i'm feeling so lost because my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.765
+can anyone relate? i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.696
+can anyone relate? i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,1.0
+"honestly, i feel completely overwhelmed by everything in my life right now.",overwhelm,Overwhelm,General Stress,0.652
+"honestly, i had a huge argument with my mom and she told me she's disappointed in me.",anger,Anger,Relationships/Family,0.495
+just wanted to say that i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.029
+i need to vent... i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.252
+"honestly, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.52
+"honestly, i'm sitting alone in the cafeteria and feel like everyone is judging me.",social anxiety,Social Anxiety,Social Anxiety,0.244
+can anyone relate? i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.718
+i'm feeling so lost because my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.569
+"i need to vent... i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.672
+"honestly, i got an interview invite for a software engineer role at my target company!",joy/hope,Joy/Hope,Career/Future,0.0
+lately i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.608
+"just wanted to say that everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.557
+"honestly, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.136
+"i don't know what to do anymore, i'm reading my textbook for linear algebra and taking notes.",neutral,Neutral,Academic,0.02
+can anyone relate? i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.623
+"i don't know what to do anymore, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.691
+"just wanted to say that my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.712
+just wanted to say that my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.652
+"i don't know what to do anymore, i applied to 50 tech internships and got rejected from every single one of them.",sadness,Sadness,Career/Future,0.729
+it's 2 am and i have a group presentation in class today and i feel like having a severe panic attack.,anxiety,Anxiety,Social Anxiety,0.999
+lately i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.618
+i need to vent... i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.542
+lately i woke up feeling refreshed today and finally got good sleep after a long time.,joy/hope,Joy/Hope,Sleep/Health,0.0
+can anyone relate? i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.141
+"honestly, i feel so guilty for procrastinating on my final assignment until midnight.",guilt/shame,Guilt/Shame,Academic,0.585
+i'm feeling so lost because i'm sitting alone in the cafeteria and feel like everyone is judging me.,social anxiety,Social Anxiety,Social Anxiety,0.238
+it's 2 am and i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.692
+it's 2 am and my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.451
+"just wanted to say that i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.595
+i'm feeling so lost because i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.129
+lately i feel like a total failure to my family because i am struggling in computer science.,guilt/shame,Guilt/Shame,Relationships/Family,0.618
+"just wanted to say that everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.659
+"honestly, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.159
+just wanted to say that i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.167
+it's 2 am and i failed my midterm exam and i feel like my gpa is completely ruined.,sadness,Sadness,Academic,0.604
+"i don't know what to do anymore, i have two finals tomorrow and i haven't slept in 24 hours from extreme anxiety.",anxiety,Anxiety,Sleep/Health,0.774
+"i don't know what to do anymore, my partner broke up with me last night after 3 years together, i can't stop crying.",sadness,Sadness,Relationships/Family,0.6
+i need to vent... my rent is due tomorrow and my student bank account has negative balance.,anxiety,Anxiety,Financial,0.72
+can anyone relate? i applied to 50 tech internships and got rejected from every single one of them.,sadness,Sadness,Career/Future,0.6
+"honestly, i have a group presentation in class today and i feel like having a severe panic attack.",anxiety,Anxiety,Social Anxiety,0.929
+i'm feeling so lost because i feel completely overwhelmed by everything in my life right now.,overwhelm,Overwhelm,General Stress,0.548
+just wanted to say that i had a huge argument with my mom and she told me she's disappointed in me.,anger,Anger,Relationships/Family,0.46
+"honestly, i woke up feeling refreshed today and finally got good sleep after a long time.",joy/hope,Joy/Hope,Sleep/Health,0.028
+lately i studied really hard with my group and got an a on our team submission!,joy/hope,Joy/Hope,Academic,0.222
+it's 2 am and i feel so guilty for procrastinating on my final assignment until midnight.,guilt/shame,Guilt/Shame,Academic,0.586
+"i don't know what to do anymore, i'm sitting alone in the cafeteria and feel like everyone is judging me.",social anxiety,Social Anxiety,Social Anxiety,0.292
+it's 2 am and i can't pay my tuition bill for next semester and i might have to drop out.,anxiety,Anxiety,Financial,0.736
+can anyone relate? my professor accused me of cheating on my essay when i wrote it all myself.,anger,Anger,Academic,0.489
+"honestly, i feel so exhausted, my body aches and i just want to lay in bed all day.",sadness,Sadness,Sleep/Health,0.698
+i need to vent... i got an interview invite for a software engineer role at my target company!,joy/hope,Joy/Hope,Career/Future,0.0
+"honestly, i feel like a total failure to my family because i am struggling in computer science.",guilt/shame,Guilt/Shame,Relationships/Family,0.556
+"i don't know what to do anymore, everything is just piling up on me, assignments, bills, and constant stress.",overwhelm,Overwhelm,General Stress,0.521
+"i don't know what to do anymore, i had a nice quiet walk around campus today and listened to music.",neutral,Neutral,General Stress,0.157
+lately i'm reading my textbook for linear algebra and taking notes.,neutral,Neutral,Academic,0.051

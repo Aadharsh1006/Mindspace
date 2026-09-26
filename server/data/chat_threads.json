@@ -1,0 +1,178 @@
+[
+  {
+    "id": "THREAD_1790434300407",
+    "student_id": "STUDENT_7255",
+    "title": "I failed my exam just go...",
+    "date": "2026-09-26T16:00:58.709Z",
+    "messages": [
+      {
+        "sender": "user",
+        "text": "I failed my exam just got 17 out off fifty and also I'm worried about the result that's gonna come",
+        "timestamp": "09:30 pm"
+      },
+      {
+        "sender": "bot",
+        "text": "I can hear the weight in your words, and I want you to know that it is completely understandable to feel this way. Receiving a score like that can feel like a heavy blow, and that sense of sadness you're experiencing is a very natural response to a setback that feels significant.\n\nIt’s also very common for the mind to jump ahead to \"what if\" scenarios—worrying about the official results and how they might impact your future. When we are in the middle of a stressful moment, it’s easy to feel as though this single exam defines our entire academic journey or our potential career. However, please try to remind yourself that while this result is disappointing, it is a single data point in time; it is not a final verdict on your intelligence, your capability, or your worth as a student.\n\nTo help us navigate this together, could you tell me a bit more about what specifically is worrying you regarding the upcoming results? Is it a fear of a particular consequence, or perhaps a feeling of uncertainty about what comes next?",
+        "timestamp": "09:30 pm",
+        "analysis": {
+          "emotion": "Sadness",
+          "severity": 0.5164,
+          "trigger": "Career/Future",
+          "cbt": {
+            "exercise": "Identify 2 alumni or mentors to reach out for informational interviews this month.",
+            "strategy": "Challenge catastrophizing thoughts about career progression. Focus on skill acquisition rather than immediate outcome perfection.",
+            "title": "Cognitive Reframing for Career & Future Uncertainty"
+          }
+        }
+      },
+      {
+        "sender": "user",
+        "text": "what's my depression score",
+        "timestamp": "10:21 pm"
+      },
+      {
+        "sender": "bot",
+        "text": "I understand why you're looking for that clarity; having a concrete baseline can often feel like a helpful first step in understanding your mental well-being. \n\nLooking at your records, we haven't actually conducted a formal assessment—such as a PHQ-9—just yet, so I don't have a specific score to provide for you at this moment. Please know that there is no rush, but if you feel it would be helpful to have that information, we can certainly walk through a screening together whenever you feel ready.\n\nTo help me get a better sense of how you're doing in the meantime, how have your moods and energy levels been feeling lately?",
+        "timestamp": "10:21 pm",
+        "analysis": {
+          "emotion": "Neutral",
+          "severity": 0.05,
+          "trigger": "General Stress",
+          "cbt": {
+            "exercise": "Mindful Body Scan: Release tension in shoulders, jaw, and forehead for 3 minutes.",
+            "strategy": "Engage in a 15-minute physical walk outside. Focus on controllable present-moment activities.",
+            "title": "Behavioral Activation & Grounding Support"
+          }
+        }
+      },
+      {
+        "sender": "user",
+        "text": "what's my depression score",
+        "timestamp": "10:22 pm"
+      },
+      {
+        "sender": "bot",
+        "text": "I see you're looking for your recent results. On your latest PHQ-9 assessment, you received a score of 11 out of 27, which places you in the \"Moderate Depression\" tier.\n\nI want to pause here and remind you that seeing a clinical score like this can sometimes feel a bit overwhelming, but please try to view it as a helpful snapshot rather than a definition of who you are. A score in the moderate range suggests that the symptoms you've been experiencing—perhaps things like low mood, changes in sleep, or shifts in energy—are significant enough that they may be making it harder to navigate your daily university life and responsibilities.\n\nThe most important thing to remember is that this score is simply a tool to help us understand where you are so we can figure out the best way to support you. It is a starting point for moving toward feeling better, not a permanent state.\n\nHow have you been feeling lately in terms of your energy levels or your ability to focus on your studies?",
+        "timestamp": "10:22 pm",
+        "analysis": {
+          "emotion": "Neutral",
+          "severity": 0.05,
+          "trigger": "General Stress",
+          "cbt": {
+            "exercise": "Mindful Body Scan: Release tension in shoulders, jaw, and forehead for 3 minutes.",
+            "strategy": "Engage in a 15-minute physical walk outside. Focus on controllable present-moment activities.",
+            "title": "Behavioral Activation & Grounding Support"
+          }
+        }
+      },
+      {
+        "sender": "user",
+        "text": "I got low score in exam i'm feeling sad",
+        "timestamp": "10:39 pm"
+      },
+      {
+        "sender": "bot",
+        "text": "I am so sorry to hear that; it is completely understandable to feel this way. When you have put in effort and the outcome doesn't match your expectations, it can feel incredibly heavy and discouraging.\n\nPlease try to remember that a single exam score is just one snapshot in time; it is a reflection of one specific assessment, not a reflection of your intelligence, your worth, or your ultimate potential as a student. \n\nIf you feel comfortable sharing, could you tell me a bit more about what's going through your mind right now? I'm here to listen.",
+        "timestamp": "10:39 pm",
+        "analysis": {
+          "emotion": "Neutral",
+          "severity": 0.05,
+          "trigger": "General Stress",
+          "cbt": {
+            "exercise": "Mindful Body Scan: Release tension in shoulders, jaw, and forehead for 3 minutes.",
+            "strategy": "Engage in a 15-minute physical walk outside. Focus on controllable present-moment activities.",
+            "title": "Behavioral Activation & Grounding Support"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "THREAD_001",
+    "student_id": "STUDENT_8684",
+    "title": "hii...",
+    "date": "2026-08-13T03:58:20.459Z",
+    "messages": [
+      {
+        "sender": "user",
+        "text": "hii",
+        "timestamp": "09:28 am"
+      },
+      {
+        "sender": "bot",
+        "text": "Take a slow, gentle breath with me right now. I hear how heavy and draining things feel on your heart. When your body is exhausted and sleep is disrupted, every emotional challenge feels ten times harder. Take a slow, gentle breath. You don't have to face this all at once. What is one tiny, comforting thing you can do for yourself in this moment? Would you like us to try another gentle grounding exercise together, or explore one more soothing perspective?",
+        "timestamp": "09:28 am",
+        "analysis": {
+          "emotion": "Sadness",
+          "severity": 0.4852,
+          "trigger": "Sleep/Health",
+          "cbt": {
+            "exercise": "4-7-8 Breathing Technique: Inhale for 4s, hold for 7s, exhale slowly for 8s (repeat 4 times).",
+            "strategy": "Maintain consistent wake time, avoid screen light 60 min before bed, and practice Progressive Muscle Relaxation (PMR).",
+            "title": "Sleep Hygiene & Somatic Relaxation"
+          }
+        }
+      },
+      {
+        "sender": "user",
+        "text": "I'm terrified I failed my midterm exam and can't sleep at all.",
+        "timestamp": "10:05 am"
+      },
+      {
+        "sender": "bot",
+        "text": "Thank you for trusting me with what's on your heart. Experiencing this sadness can feel deeply draining, and you don't have to carry it all alone. Coursework expectations bring heavy pressure, but remember your grades never define your intrinsic human worth. Take a slow, gentle breath. You don't have to face this all at once. What is one tiny, comforting thing you can do for yourself in this moment? If you'd like, we can try one more comforting exercise together to help settle your mind. What feels best for you right now?",
+        "timestamp": "10:05 am",
+        "analysis": {
+          "emotion": "Sadness",
+          "severity": 0.5383,
+          "trigger": "Academic",
+          "cbt": {
+            "exercise": "5-Minute Mind Dump: Write down all upcoming deadlines, rank by urgency, and clear non-essential tasks.",
+            "strategy": "Break large assignments into 25-minute Pomodoro focus blocks. Use active recall and review past exam feedback.",
+            "title": "Academic Stress Management & Study Pacing"
+          }
+        }
+      },
+      {
+        "sender": "user",
+        "text": "I'm terrified I failed my midterm exam and can't sleep at all.",
+        "timestamp": "10:08 am"
+      },
+      {
+        "sender": "bot",
+        "text": "Take a slow, gentle breath with me right now. I hear how heavy and draining things feel on your heart. Coursework expectations bring heavy pressure, but remember your grades never define your intrinsic human worth. Take a slow, gentle breath. You don't have to face this all at once. What is one tiny, comforting thing you can do for yourself in this moment? If you'd like, we can try one more comforting exercise together to help settle your mind. What feels best for you right now?",
+        "timestamp": "10:08 am",
+        "analysis": {
+          "emotion": "Sadness",
+          "severity": 0.5383,
+          "trigger": "Academic",
+          "cbt": {
+            "exercise": "5-Minute Mind Dump: Write down all upcoming deadlines, rank by urgency, and clear non-essential tasks.",
+            "strategy": "Break large assignments into 25-minute Pomodoro focus blocks. Use active recall and review past exam feedback.",
+            "title": "Academic Stress Management & Study Pacing"
+          }
+        }
+      },
+      {
+        "sender": "user",
+        "text": "hii",
+        "timestamp": "11:11 am"
+      },
+      {
+        "sender": "bot",
+        "text": "I can feel the depth of what you're sharing. Please give yourself permission to pause and just breathe. When your body is exhausted and sleep is disrupted, every emotional challenge feels ten times harder. Take a slow, gentle breath. You don't have to face this all at once. What is one tiny, comforting thing you can do for yourself in this moment? How does it feel to share this? Would you like another calming practice, or would you prefer to keep talking at your own pace?",
+        "timestamp": "11:11 am",
+        "analysis": {
+          "emotion": "Sadness",
+          "severity": 0.4852,
+          "trigger": "Sleep/Health",
+          "cbt": {
+            "exercise": "4-7-8 Breathing Technique: Inhale for 4s, hold for 7s, exhale slowly for 8s (repeat 4 times).",
+            "strategy": "Maintain consistent wake time, avoid screen light 60 min before bed, and practice Progressive Muscle Relaxation (PMR).",
+            "title": "Sleep Hygiene & Somatic Relaxation"
+          }
+        }
+      }
+    ]
+  }
+]

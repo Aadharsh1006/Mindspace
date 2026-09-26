@@ -1,0 +1,29 @@
+{
+  "rule_based": {
+    "accuracy": 0.87,
+    "macro_f1": 0.8727208561020037,
+    "worsening_recall": 1.0
+  },
+  "session_only": {
+    "accuracy": 0.7,
+    "macro_f1": 0.7087624825329742,
+    "worsening_recall": 1.0
+  },
+  "guided_cbt": {
+    "accuracy": 0.9,
+    "macro_f1": 0.9025613432393094,
+    "worsening_recall": 1.0
+  },
+  "transformer_ablation": {
+    "accuracy": 0.92,
+    "macro_f1": 0.9199404761904763,
+    "worsening_recall": 1.0
+  },
+  "proposed_bilstm": {
+    "accuracy": 0.94,
+    "macro_f1": 0.9381066286935518,
+    "worsening_recall": 1.0
+  },
+  "inference_latency_ms": 0.11850237846374512,
+  "memory_mb": 11.81640625
+}
