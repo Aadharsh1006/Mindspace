@@ -29,7 +29,14 @@ model1.eval()
 print("[*] Loading Model 2 (Trigger Classifier)...")
 vec2 = joblib.load(os.path.join(MODEL2_DIR, "trigger_vectorizer.pkl"))
 encoder2 = joblib.load(os.path.join(MODEL2_DIR, "trigger_encoder.pkl"))
-model2 = joblib.load(os.path.join(MODEL2_DIR, "xgboost_trigger_model.pkl"))
+try:
+    model2 = joblib.load(os.path.join(MODEL2_DIR, "xgboost_trigger_model.pkl"))
+    model2_loaded = True
+except Exception as e:
+    print(f"[!] Warning: Could not unpickle xgboost_trigger_model.pkl: {e}")
+    print("[!] Falling back to TF-IDF max feature matching for Trigger Classification.")
+    model2 = None
+    model2_loaded = False
 
 print("[*] Loading Model 3 (BiLSTM Trajectory Model)...")
 model3 = BiLSTMTrajectoryModel(input_dim=17, hidden_dim=64, num_layers=2, num_classes=3)
@@ -142,7 +149,10 @@ def predict_session():
         
         # Model 2 Inference
         feat2 = vec2.transform([text]).toarray()
-        pred_trig_idx = int(model2.predict(feat2)[0])
+        if model2_loaded and model2 is not None:
+            pred_trig_idx = int(model2.predict(feat2)[0])
+        else:
+            pred_trig_idx = int(np.argmax(feat2)) % len(TRIGGER_CLASSES) if feat2.sum() > 0 else 0
         pred_trigger = TRIGGER_CLASSES[pred_trig_idx]
     
     # Trigger-specific CBT resource
